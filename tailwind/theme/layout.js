@@ -11,6 +11,11 @@ const layout = {
     md: "calc(var(--radius) - 2px)",
     sm: "calc(var(--radius) - 4px)",
   },
+
+  backgroundImage: {
+    "purple-gradient": "url('/assets/images/gradient-bg.svg')",
+    banner: "url('/assets/images/banner-bg.png')",
+  },
 };
 
 module.exports = layout;
