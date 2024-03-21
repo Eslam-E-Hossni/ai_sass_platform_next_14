@@ -4,6 +4,7 @@ const Home = () => {
 <<<<<<< Updated upstream:src/app/page.tsx
   return (
     <div>
+      Home
     </div>
   );
 =======
